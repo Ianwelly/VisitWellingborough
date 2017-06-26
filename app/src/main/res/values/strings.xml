@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Visit Wellingborough</string>
+    <string name="category_pubs">Pubs</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_sightseeing">SightSeeing and Attractions</string>
+
+    <!-- Pubs and their descriptions -->
+    <string name="text_view_title_hind_hotel">The Hind Hotel, town centre,  NN8 1BY</string>
+    <string name="text_view_info_hind">17th Century Grade II listed coaching house now a pub and hotel</string>
+    <string name="text_view_title_cannon">The Cannon, town centre, NN8 4DJ</string>
+    <string name="text_view_info_canon">Sells a large range of real ales including Adnams Broadside
+        and Young\'s Special</string>
+    <string name="text_view_title_horseshoe">The Horseshoe, town centre, NN8 1BS</string>
+    <string name="text_view_info_horseshoe">Traditional pub with darts, pool table and beer garden.
+        Live music on a Wednesday</string>
+    <string name="text_view_title_redwell">The Red Well, town centre, NN8 1BD</string>
+    <string name="text_view_redwell_info">Wetherspoons pub selling meals, popular with the locals,
+        named after one of the five wells of Wellingborough</string>
+    <string name="text_view_title_coach_and_horses"><![CDATA[The Coach & Horses, town centre,
+    NN8 4HY]]></string>
+    <string name="text_view_info_coach_and_horses">Serving 12 real ales and 20 craft ciders,
+        Pub of the year 2014, beer garden</string>
+    <string name="text_view_och_and_dough_title">The Och and Dough 2 miles from town centre,
+        NN8 4UF</string>
+    <string name="text_view_info_och_and_dough">Hungry Horse pub, serves food, soft play,
+        free wifi</string>
+    <string name="text_view_title_priory">The Priory 2.5 miles out of town centre, NN8 2LF</string>
+    <string name="text_view_info_priory">Food, soft play area, free wifi</string>
+    <string name="text_view_info_dog_and_duck">Beefeater pub serving food, hotel, garden,
+        near fast food outlets, NN8 2DP</string>
+    <string name="text_view_title_dog_and_duck">The Dog and Duck, 1 mile out of town</string>
+    <string name="text_view_title_cutting_room">The Cutting Room town centre, NN8 4PG</string>
+    <string name="text_view_info_cutting_room">Old cinema, serves food and real ale, sports tv</string>
+    <string name="text_view_title_rising_sun">The Rising Sun, town centre pub, NN8 1PF</string>
+    <string name="text_view_info_rising_sun">Friendly traditional town pub,
+        locally brewed beer sold, pool table</string>
+
+    <!-- Restaurants -->
+
+    <string name="text_view_title_pizza_hut">Pizza Hut,1 mile from town centre, NN8 2DP</string>
+    <string name="text_view_info_pizza_hut">Serves buffet at lunch times</string>
+    <string name="text_view_title_yumeijin">Yumeijin, town centre, NN8 4JJ</string>
+    <string name="text_view_info_yumeijin">Chinese restaurant and take away, all you can eat on Sunday</string>
+    <string name="text_view_title_McDonalds">McDoanlds, 1 mile from town centre, NN8 2DR</string>
+    <string name="text_view_info_McDonalds">Restaurant and drive through</string>
+    <string name="text_view_title_kfc">KFC, 1 mile from town centre, NN8 2ED</string>
+    <string name="text_view_info_kfc">Restaurant and drive through</string>
+    <string name="text_view_title_la_roca">La Roca, town centre, NN8 1AH</string>
+    <string name="text_view_info_la_roca">Genuine Italian food overlooking 16th century Tithe Barn</string>
+    <string name="text_view_title_jennys">Jenny\'s, town centre, NN8 1AY</string>
+    <string name="text_view_info_jennys">Restaurant burgers, fish and chips, fry ups, milkshakes and more</string>
+    <string name="text_view_title_castello">Castello Lounge, town centre, NN8 1AN</string>
+    <string name="text_view_info_castello">Caters for meat-eaters, vegans and vegetarians alike, alfresco seating</string>
+    <string name="text_view_title_voujon">Voujon, town centre, NN8 1DW</string>
+    <string name="text_view_info_voujon">Indian and Bangladeshi food, eat in and takeaway, vegetarian</string>
+    <string name="text_view_title_alis">Ali\'s Indian Restaurant, town centre, NN8 1DW</string>
+    <string name="text_view_info_alis">Indian eat in and takeaway</string>
+    <string name="text_view_title_jam_rock">Jam Rock, town centre, NN8 1DW</string>
+    <string name="text_view_info_jam_rock">Home-made Jamaican classic food, vegetarian options</string>
+    <string name="text_view_title_irchester_country_park">Irchester Country Park, 2 miles from town centre, NN29 7DL</string>
+    <string name="text_view_info_irchester_country_park">Big open spaces, woodland walks, visitor centre, cafe</string>
+    <string name="text_view_title_splash">Splash Park, 1 1/2 miles from town centre, NN8 1PA</string>
+    <string name="text_view_info_splash">Free entry and parking, picnic tables, shelter, ice-cream and hot food</string>
+    <string name="text_view_title_stanwick_lakes">Stanwick Lakes, 8 miles from town centre, NN9 6GY</string>
+    <string name="text_view_info_stanwick_lakes">Adventure trail, adventure park, walks, birdwatching, visitor centre - drinks and food</string>
+    <string name="text_view_title_wicksteed">Wicksteed Park, Kettering, 7 miles from town centre,NN15 6NJ</string>
+    <string name="text_view_info_wicksteed">A variety of rides for all ages incl. roller coaster and dodgems</string>
+    <string name="text_view_title_sywell_country_park">Sywell Country Park, 5 miles from town centre, NN6 0QX</string>
+    <string name="text_view_info_sywell_country_park">A former drinking water reservoir, fishing, cafe, walks</string>
+    <string name="text_view_title_museum">Museum, town centre, NN8 1XB</string>
+    <string name="text_view_info_museum">On the site of the town\'s victorian baths, shop, film nights, cafe and events</string>
+    <string name="text_view_title_castle_theatre">The Castle Theatre, town centre, NN8 1XB</string>
+    <string name="text_view_info_castle_theatre">Right next to the museum. Shows, films, bar and food</string>
+    <string name="text_view_title_silver_ladies">The Silver Ladies, 1.5 miles from town centre NN8 5FL</string>
+    <string name="text_view_info_silver_ladies">Art installation welcoming visitors to the town</string>
+    <string name="text_view_title_carnival">Carnival, town centre</string>
+    <string name="text_view_info_carnival">Usually held in the middle of July, parade around town with floats, ending in Croyland Park, NN8 2EN, where there isa funfair</string>
+    <string name="text_view_title_waendal_walk">Waendal Walk, town centre, NN8 1XB</string>
+    <string name="text_view_info_waendal_walk">International friendship walk. Distances from 3 - 24 miles, hosted by the Castle Theatre</string>
+    <string name="text_view_title_medival_festival">Medieval Festival, town centre</string>
+    <string name="text_view_info_medieval_festival">Yearly festival, usually held at the beginning of July, jesters, medieval crafts, mock battles and more!</string>
+
+    <!--Parks-->
+
+
+
+
+
+
+
+
+</resources>
