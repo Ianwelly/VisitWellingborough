@@ -10,17 +10,27 @@ public class Description {
     private String mTitle;
     private String mInfo;
     private int mImageResourceId;
+    private String mUrl;
 
     //Constructors
     public Description (String title, String info) {
         mTitle = title;
         mInfo = info;
+
     }
 
     public Description (String title, String info, int imageResourceId) {
         mTitle = title;
         mInfo = info;
         mImageResourceId = imageResourceId;
+
+    }
+
+    public Description (String title, String info, int imageResourceId, String url) {
+        mTitle = title;
+        mInfo = info;
+        mImageResourceId = imageResourceId;
+        mUrl = url;
     }
 
     //getters
@@ -35,6 +45,8 @@ public class Description {
     public int getImageResourceId(){
         return mImageResourceId;
     }
+
+    public String getUrl() { return mUrl;}
 
     //toString
     @Override

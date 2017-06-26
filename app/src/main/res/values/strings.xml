@@ -7,7 +7,8 @@
 
     <!-- Pubs and their descriptions -->
     <string name="text_view_title_hind_hotel">The Hind Hotel, town centre,  NN8 1BY</string>
-    <string name="text_view_info_hind">17th Century Grade II listed coaching house now a pub and hotel</string>
+    <string name="text_view_info_hind">17th Century Grade II listed coaching house now a pub and
+        hotel</string>
     <string name="text_view_title_cannon">The Cannon, town centre, NN8 4DJ</string>
     <string name="text_view_info_canon">Sells a large range of real ales including Adnams Broadside
         and Young\'s Special</string>
@@ -29,64 +30,122 @@
     <string name="text_view_info_priory">Food, soft play area, free wifi</string>
     <string name="text_view_info_dog_and_duck">Beefeater pub serving food, hotel, garden,
         near fast food outlets, NN8 2DP</string>
-    <string name="text_view_title_dog_and_duck">The Dog and Duck, 1 mile out of town</string>
+    <string name="text_view_title_dog_and_duck">The BeefEater, 1 mile out of town</string>
     <string name="text_view_title_cutting_room">The Cutting Room town centre, NN8 4PG</string>
-    <string name="text_view_info_cutting_room">Old cinema, serves food and real ale, sports tv</string>
+    <string name="text_view_info_cutting_room">Old cinema, serves food and real ale, sports
+        tv</string>
     <string name="text_view_title_rising_sun">The Rising Sun, town centre pub, NN8 1PF</string>
     <string name="text_view_info_rising_sun">Friendly traditional town pub,
         locally brewed beer sold, pool table</string>
 
-    <!-- Restaurants -->
-
+    <!-- Restaurants description's-->
     <string name="text_view_title_pizza_hut">Pizza Hut,1 mile from town centre, NN8 2DP</string>
     <string name="text_view_info_pizza_hut">Serves buffet at lunch times</string>
     <string name="text_view_title_yumeijin">Yumeijin, town centre, NN8 4JJ</string>
-    <string name="text_view_info_yumeijin">Chinese restaurant and take away, all you can eat on Sunday</string>
+    <string name="text_view_info_yumeijin">Chinese restaurant and take away, all you can eat on
+        Sunday</string>
     <string name="text_view_title_McDonalds">McDoanlds, 1 mile from town centre, NN8 2DR</string>
     <string name="text_view_info_McDonalds">Restaurant and drive through</string>
     <string name="text_view_title_kfc">KFC, 1 mile from town centre, NN8 2ED</string>
     <string name="text_view_info_kfc">Restaurant and drive through</string>
     <string name="text_view_title_la_roca">La Roca, town centre, NN8 1AH</string>
-    <string name="text_view_info_la_roca">Genuine Italian food overlooking 16th century Tithe Barn</string>
+    <string name="text_view_info_la_roca">Genuine Italian food overlooking 16th century Tithe
+        Barn</string>
     <string name="text_view_title_jennys">Jenny\'s, town centre, NN8 1AY</string>
-    <string name="text_view_info_jennys">Restaurant burgers, fish and chips, fry ups, milkshakes and more</string>
+    <string name="text_view_info_jennys">Restaurant burgers, fish and chips, fry ups, milkshakes
+        and more</string>
     <string name="text_view_title_castello">Castello Lounge, town centre, NN8 1AN</string>
-    <string name="text_view_info_castello">Caters for meat-eaters, vegans and vegetarians alike, alfresco seating</string>
+    <string name="text_view_info_castello">Caters for meat-eaters, vegans and vegetarians alike,
+        alfresco seating</string>
     <string name="text_view_title_voujon">Voujon, town centre, NN8 1DW</string>
-    <string name="text_view_info_voujon">Indian and Bangladeshi food, eat in and takeaway, vegetarian</string>
+    <string name="text_view_info_voujon">Indian and Bangladeshi food, eat in and takeaway,
+        vegetarian</string>
     <string name="text_view_title_alis">Ali\'s Indian Restaurant, town centre, NN8 1DW</string>
     <string name="text_view_info_alis">Indian eat in and takeaway</string>
     <string name="text_view_title_jam_rock">Jam Rock, town centre, NN8 1DW</string>
-    <string name="text_view_info_jam_rock">Home-made Jamaican classic food, vegetarian options</string>
-    <string name="text_view_title_irchester_country_park">Irchester Country Park, 2 miles from town centre, NN29 7DL</string>
-    <string name="text_view_info_irchester_country_park">Big open spaces, woodland walks, visitor centre, cafe</string>
-    <string name="text_view_title_splash">Splash Park, 1 1/2 miles from town centre, NN8 1PA</string>
-    <string name="text_view_info_splash">Free entry and parking, picnic tables, shelter, ice-cream and hot food</string>
-    <string name="text_view_title_stanwick_lakes">Stanwick Lakes, 8 miles from town centre, NN9 6GY</string>
-    <string name="text_view_info_stanwick_lakes">Adventure trail, adventure park, walks, birdwatching, visitor centre - drinks and food</string>
-    <string name="text_view_title_wicksteed">Wicksteed Park, Kettering, 7 miles from town centre,NN15 6NJ</string>
-    <string name="text_view_info_wicksteed">A variety of rides for all ages incl. roller coaster and dodgems</string>
-    <string name="text_view_title_sywell_country_park">Sywell Country Park, 5 miles from town centre, NN6 0QX</string>
-    <string name="text_view_info_sywell_country_park">A former drinking water reservoir, fishing, cafe, walks</string>
+    <string name="text_view_info_jam_rock">Home-made Jamaican classic food, vegetarian
+        options</string>
+
+    <!--Parks description's-->
+    <string name="text_view_title_irchester_country_park">Irchester Country Park,
+        2 miles from town centre, NN29 7DL</string>
+    <string name="text_view_info_irchester_country_park">Big open spaces, woodland walks,
+        visitor centre, cafe</string>
+    <string name="text_view_title_splash">Splash Park, 1 1/2 miles from town centre,
+        NN8 1PA</string>
+    <string name="text_view_info_splash">Free entry and parking, picnic tables, shelter,
+        ice-cream and hot food</string>
+    <string name="text_view_title_stanwick_lakes">Stanwick Lakes, 8 miles from town centre,
+        NN9 6GY</string>
+    <string name="text_view_info_stanwick_lakes">Adventure trail, adventure park, walks,
+        birdwatching, visitor centre - drinks and food</string>
+    <string name="text_view_title_wicksteed">Wicksteed Park, Kettering, 7 miles from town centre,
+        NN15 6NJ</string>
+    <string name="text_view_info_wicksteed">A variety of rides for all ages incl. roller coaster
+        and dodgems</string>
+    <string name="text_view_title_sywell_country_park">Sywell Country Park, 5 miles from town
+        centre, NN6 0QX</string>
+    <string name="text_view_info_sywell_country_park">A former drinking water reservoir, fishing,
+        cafe, walks</string>
+
+    <!--Sightseeing and Attractions Descriptions-->
     <string name="text_view_title_museum">Museum, town centre, NN8 1XB</string>
-    <string name="text_view_info_museum">On the site of the town\'s victorian baths, shop, film nights, cafe and events</string>
+    <string name="text_view_info_museum">On the site of the town\'s victorian baths, shop,
+        film nights, cafe and events</string>
     <string name="text_view_title_castle_theatre">The Castle Theatre, town centre, NN8 1XB</string>
-    <string name="text_view_info_castle_theatre">Right next to the museum. Shows, films, bar and food</string>
-    <string name="text_view_title_silver_ladies">The Silver Ladies, 1.5 miles from town centre NN8 5FL</string>
-    <string name="text_view_info_silver_ladies">Art installation welcoming visitors to the town</string>
+    <string name="text_view_info_castle_theatre">Right next to the museum. Shows, films, bar and
+        food</string>
+    <string name="text_view_title_silver_ladies">The Silver Ladies, 1.5 miles from town centre NN8
+        5FL</string>
+    <string name="text_view_info_silver_ladies">Art installation welcoming visitors to the
+        town</string>
     <string name="text_view_title_carnival">Carnival, town centre</string>
-    <string name="text_view_info_carnival">Usually held in the middle of July, parade around town with floats, ending in Croyland Park, NN8 2EN, where there isa funfair</string>
+    <string name="text_view_info_carnival">Usually held in the middle of July, parade around town
+        with floats, ending in Croyland Park, NN8 2EN, where there isa funfair</string>
     <string name="text_view_title_waendal_walk">Waendal Walk, town centre, NN8 1XB</string>
-    <string name="text_view_info_waendal_walk">International friendship walk. Distances from 3 - 24 miles, hosted by the Castle Theatre</string>
+    <string name="text_view_info_waendal_walk">International friendship walk. Distances from 3 en
+        dash 24 miles, hosted by the Castle Theatre</string>
     <string name="text_view_title_medival_festival">Medieval Festival, town centre</string>
-    <string name="text_view_info_medieval_festival">Yearly festival, usually held at the beginning of July, jesters, medieval crafts, mock battles and more!</string>
+    <string name="text_view_info_medieval_festival">Yearly festival, usually held at the beginning
+        of July, jesters, medieval crafts, mock battles and more!</string>
+
+    <!--Uri's-->
+    <!--Pubs-->
+    <string name="uri_hind_hotel"> https://www.facebook.com/TheHindHotel/</string>
+    <string name="uri_cannon">http://www.beerintheevening.com/pubs/s/14/14109/Cannon/Wellingborough</string>
+    <string name="uri_horseshoe">https://www.facebook.com/horseshoeinnwellingborough/</string>
+    <string name="uri_redwell">https://www.jdwetherspoon.com/pubs/all-pubs/england/northamptonshire/the-red-well-wellingborough</string>
+    <string name="uri_coach_and_horses">http://coachandhorseswellingborough.co.uk/</string>
+    <string name="uri_och_and_dough">https://www.hungryhorse.co.uk/locations/ock-n-dough</string>
+    <string name="priory">https://www.thepriorywellingborough.co.uk/</string>
+    <string name="uri_beefeater_dog_and_duck">http://www.beefeater.co.uk/steak-restaurant/Northamptonshire/Dog-and-Duck-Wellingborough.html</string>
+    <string name="cutting_room">https://www.facebook.com/thecuttingroom.drink.eat.dance/?rf=154858817874961</string>
+    <string name="uri_rising_sum">https://www.facebook.com/pages/The-Rising-Sun/163716593663473</string>
+
+    <!--Restaurants-->
+    <string name="uri_pizza_hut">https://www.pizzahut.co.uk/restaurants/find-a-hut/wellingborough/wellingborough/</string>
+    <string name="uri_yumeijin">http://yumeijin.co.uk/</string>
+    <string name="uri_macdonalds">https://www.tripadvisor.co.uk/Restaurant_Review-g499613-d10811461-Reviews-Mcdonalds-Wellingborough_Northamptonshire_England.html</string>
+    <string name="uri_kfc">https://www.bigreddirectory.com/kfc-turnells-mill-ln-wellingborough</string>
+    <string name="uri_la_roca">http://laroccarestaurant.co.uk/</string>
+    <string name="uri_jennys">https://www.yell.com/biz/jenny-s-restaurant-wellingborough-4229439/</string>
+    <string name="uri_castello_lounge">http://thelounges.co.uk/lounges/castello-lounge/</string>
+    <string name="uri_voujon">http://voujon.co.uk/</string>
+    <string name="uri_alis">http://www.alisindianrestaurant.co.uk/</string>
+    <string name="uri_jamrock">http://jamrockfood.co.uk/</string>
+    <string name="uri_irchester_country_park">http://www.northamptonshireparks.co.uk/irchester-country-park/Pages/default.aspx</string>
+    <string name="uri_splash_park">http://www.wellingborough.gov.uk/info/100009/leisure_and_culture/1121/splash_park</string>
+    <string name="uri_stanwick_lakes">https://www.stanwicklakes.org.uk/</string>
+    <string name="uri_wicksteed">http://wicksteedpark.org/</string>
+    <string name="uri_sywell">http://www.northamptonshireparks.co.uk/sywell-country-park/Pages/default.aspx</string>
+    <string name="uri_museum">https://www.facebook.com/wellingboroughmuseum/</string>
+    <string name="uri_castle">http://castletheatre.co.uk/</string>
+    <string name="uri_silver_ladies">http://www.waymarking.com/waymarks/WM3YGR_Angels_of_Wellingborough_Harrowden_Road_Wellingborough_Northamptonshire</string>
+    <string name="uri_carnival">http://www.wellingboroughcarnival.co.uk/</string>
+    <string name="uri_waendal_walk">http://www.wellingborough.gov.uk/waendelwalk</string>
+    <string name="uri_medieval_festival">https://www.discoverwellingborough.co.uk/medieval/</string>
 
     <!--Parks-->
-
-
-
-
-
 
 
 
