@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Visit Wellingborough</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights/Attractions</string>
     <string name="category_pubs">Pubs</string>
     <string name="category_restaurants">Restaurants</string>
     <string name="category_parks">Parks</string>
-    <string name="category_sightseeing">SightSeeing and Attractions</string>
 
     <!-- Pubs and their descriptions -->
     <string name="text_view_title_hind_hotel">The Hind Hotel, town centre,  NN8 1BY</string>
@@ -133,11 +135,6 @@
     <string name="uri_voujon">http://voujon.co.uk/</string>
     <string name="uri_alis">http://www.alisindianrestaurant.co.uk/</string>
     <string name="uri_jamrock">http://jamrockfood.co.uk/</string>
-    <string name="uri_irchester_country_park">http://www.northamptonshireparks.co.uk/irchester-country-park/Pages/default.aspx</string>
-    <string name="uri_splash_park">http://www.wellingborough.gov.uk/info/100009/leisure_and_culture/1121/splash_park</string>
-    <string name="uri_stanwick_lakes">https://www.stanwicklakes.org.uk/</string>
-    <string name="uri_wicksteed">http://wicksteedpark.org/</string>
-    <string name="uri_sywell">http://www.northamptonshireparks.co.uk/sywell-country-park/Pages/default.aspx</string>
     <string name="uri_museum">https://www.facebook.com/wellingboroughmuseum/</string>
     <string name="uri_castle">http://castletheatre.co.uk/</string>
     <string name="uri_silver_ladies">http://www.waymarking.com/waymarks/WM3YGR_Angels_of_Wellingborough_Harrowden_Road_Wellingborough_Northamptonshire</string>
@@ -145,8 +142,13 @@
     <string name="uri_waendal_walk">http://www.wellingborough.gov.uk/waendelwalk</string>
     <string name="uri_medieval_festival">https://www.discoverwellingborough.co.uk/medieval/</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
     <!--Parks-->
-
-
-
+    <string name="uri_irchester_country_park">http://www.northamptonshireparks.co.uk/irchester-country-park/Pages/default.aspx</string>
+    <string name="uri_splash_park">http://www.wellingborough.gov.uk/info/100009/leisure_and_culture/1121/splash_park</string>
+    <string name="uri_stanwick_lakes">https://www.stanwicklakes.org.uk/</string>
+    <string name="uri_wicksteed">http://wicksteedpark.org/</string>
+    <string name="uri_sywell">http://www.northamptonshireparks.co.uk/sywell-country-park/Pages/default.aspx</string>
 </resources>

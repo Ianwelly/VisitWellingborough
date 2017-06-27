@@ -1,14 +1,14 @@
 package com.example.android.visitwellingborough;
 
-import android.app.Activity;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
-import android.widget.ImageView;
-import android.widget.TextView;
+        import android.app.Activity;
+        import android.view.LayoutInflater;
+        import android.view.View;
+        import android.view.ViewGroup;
+        import android.widget.ArrayAdapter;
+        import android.widget.ImageView;
+        import android.widget.TextView;
 
-import java.util.ArrayList;
+        import java.util.ArrayList;
 
 /**
  * Created by Kezia on 18/06/2017.
@@ -16,12 +16,12 @@ import java.util.ArrayList;
 
 public class DescriptionAdapter extends ArrayAdapter<Description> {
 
-    public DescriptionAdapter (Activity context, ArrayList<Description> pubsList) {
+    public DescriptionAdapter(Activity context, ArrayList<Description> pubsList) {
         super(context, 0, pubsList);
     }
 
     @Override
-    public View getView(int position,  View convertView,  ViewGroup parent) {
+    public View getView(int position, View convertView, ViewGroup parent) {
 
         //fetches the Description object at this view i.e. index 1 in the pubsList is the Cannon
         Description currentDescription = getItem(position);
@@ -30,7 +30,7 @@ public class DescriptionAdapter extends ArrayAdapter<Description> {
         //from the custom view xml layout called list_item
         View descriptionView = convertView;
         if (descriptionView == null) {
-            descriptionView  = LayoutInflater.from(getContext()).inflate(R.layout.list_item, parent,
+            descriptionView = LayoutInflater.from(getContext()).inflate(R.layout.list_item, parent,
                     false);
         }
 
@@ -45,7 +45,7 @@ public class DescriptionAdapter extends ArrayAdapter<Description> {
         //Info
         //find the info text view inside the list_item_layout and and store it in an
         // inflated  TextView
-        TextView infoTextView = (TextView)descriptionView.findViewById(R.id.text_view_info);
+        TextView infoTextView = (TextView) descriptionView.findViewById(R.id.text_view_info);
 
         //populate the info text view with text from the object we found at index 1 using
         //the getInfo method. In the case of the publist this is the String "Sells a large range of
@@ -54,7 +54,6 @@ public class DescriptionAdapter extends ArrayAdapter<Description> {
 
         ImageView imageView = (ImageView) descriptionView.findViewById(R.id.image_view);
         imageView.setImageResource(currentDescription.getImageResourceId());
-
 
         return descriptionView;
     }

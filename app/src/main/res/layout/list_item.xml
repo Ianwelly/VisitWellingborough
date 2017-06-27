@@ -3,37 +3,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
-    >
+    android:orientation="horizontal">
 
     <ImageView
         android:id="@+id/image_view"
         android:layout_width="144dp"
         android:layout_height="90dp"
-        android:paddingRight="8dp"
         android:paddingBottom="8dp"
-        tools:src="@drawable/hind_hotel"
-        />
+        android:paddingRight="8dp"
+        tools:src="@drawable/hind_hotel" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        >
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/text_view_title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textStyle="bold"
-        tools:text=">The Hind Hotel, town centre,  NN8 1BY"/>
+        <TextView
+            android:id="@+id/text_view_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            tools:text=">The Hind Hotel, town centre,  NN8 1BY" />
 
-    <TextView
-        android:id="@+id/text_view_info"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:text="17th Century Grade II listed coaching house now a pub and hotel"
-         />
+        <TextView
+            android:id="@+id/text_view_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="17th Century Grade II listed coaching house now a pub and hotel" />
 
     </LinearLayout>
 

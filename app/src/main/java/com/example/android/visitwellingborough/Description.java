@@ -13,20 +13,20 @@ public class Description {
     private String mUrl;
 
     //Constructors
-    public Description (String title, String info) {
+    public Description(String title, String info) {
         mTitle = title;
         mInfo = info;
 
     }
 
-    public Description (String title, String info, int imageResourceId) {
+    public Description(String title, String info, int imageResourceId) {
         mTitle = title;
         mInfo = info;
         mImageResourceId = imageResourceId;
 
     }
 
-    public Description (String title, String info, int imageResourceId, String url) {
+    public Description(String title, String info, int imageResourceId, String url) {
         mTitle = title;
         mInfo = info;
         mImageResourceId = imageResourceId;
@@ -34,23 +34,25 @@ public class Description {
     }
 
     //getters
-    public String getTitle (){
+    public String getTitle() {
         return mTitle;
     }
 
-    public String getInfo () {
-        return  mInfo;
+    public String getInfo() {
+        return mInfo;
     }
 
-    public int getImageResourceId(){
+    public int getImageResourceId() {
         return mImageResourceId;
     }
 
-    public String getUrl() { return mUrl;}
+    public String getUrl() {
+        return mUrl;
+    }
 
     //toString
     @Override
-    public String toString (){
+    public String toString() {
         return "Title is " + mTitle + " and info is " + mInfo;
     }
 }
